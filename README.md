@@ -52,8 +52,6 @@ Each CSV file contains minute-bar aggregated options trade data with the followi
 - **Volume**: Number of contracts traded
 - **TotalTrades**: Total number of trades in the minute
 
-```
-
 For more details on data selection criteria, see [data/DATA_SELECTION.md](data/DATA_SELECTION.md).
 
 ## Performance Improvements
