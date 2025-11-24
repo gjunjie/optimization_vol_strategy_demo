@@ -1,6 +1,6 @@
-# MLP Projects
+# Options Pricing & Volatility Arbitrage
 
-This repository contains various machine learning and quantitative finance projects, including benchmarking, data analysis, optimization, and trading strategies.
+A high-performance quantitative finance toolkit for options pricing, volatility analysis, and statistical arbitrage strategies. Features optimized Black-76 model implementations achieving 1,800x speedup and rolling-window volatility arbitrage strategies for real-time trading signal generation.
 
 ## Project Structure
 
