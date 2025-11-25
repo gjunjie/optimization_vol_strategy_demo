@@ -48,7 +48,7 @@ The optimization transforms the Black-76 options pricing model from a row-by-row
 
 ### Speed Improvement
 - **Speedup**: Approximately **1,800x faster**
-- **Time Reduction**: From 45 seconds to 0.025 seconds
+- **Time Reduction**: From 45 seconds to 0.0136 seconds
 
 The optimized model processes the same dataset in a fraction of a second compared to the original 45-second execution time, making it suitable for real-time or high-frequency options pricing applications.
 
